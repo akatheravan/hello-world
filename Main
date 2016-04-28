@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>
+First Project yay!
+</title>
+
+<body>
+<?php
+echo '<h1>THE DAY I WOKE UP</h1>';
+
+?>
+
+
+</body>
